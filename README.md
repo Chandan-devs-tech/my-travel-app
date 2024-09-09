@@ -66,7 +66,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone
+git clone https://github.com/Chandan-devs-tech/my-travel-app.git
 cd my-travel-app
 ```
 
@@ -410,4 +410,4 @@ module.exports = {
 
 ## <a name="links">🔗 Links</a>
 
-Assets used in the project are here [here]()
+Assets used in the project are here [here](https://my-travel-app-two.vercel.app/)
